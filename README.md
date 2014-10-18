@@ -1,4 +1,4 @@
 ElevatorSim
 ===========
 
-An elevator simulator I built for my senor CS project
+An elevator simulator I built for my senior CS project
